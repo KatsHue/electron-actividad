@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-### Build
+## Build
 Para generar un ejecutable instalamos Electron Forge. Esto genera un instalador para tu sistema operativo:
 
 ```sh
