@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center">Actividad con Electron JS </h2>
+<h2 align="center">Actividad con Electron JS ⚛️</h2>
 
 Aplicación de escritorio desarrollada con Electron siguiendo el tutorial oficial: <br>
 
