@@ -12,12 +12,6 @@ Aplicación de escritorio desarrollada con Electron siguiendo el tutorial oficia
 
 ---
 
-> 💡 El tutorial cubre: 
-- Instalación y configuración de Electron
-- Scripts principales (main.js, preload.js, renderer.js)
-- Comunicación entre procesos
-- Empaquetado 
-
 ## 🚀 Instalación
 
 ### Clona el repositorio
